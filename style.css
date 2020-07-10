@@ -1,0 +1,84 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  background-color: #f3f1ff;
+}
+.container {
+  width: 870px;
+}
+.custom-bg {
+  background-color: #562eff;
+}
+.common-bg {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 30px 20px;
+}
+
+.common-title {
+  color: #562eff;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+#features img {
+  width: 60px;
+}
+.blog-box h3 {
+  font-size: 20px;
+  line-height: 35px;
+}
+.blog-box p {
+  color: #9f9f9f;
+}
+.blog-box p a {
+  color: #562eff;
+}
+
+.course-box h2 {
+  color: #1e1e1e;
+  font-size: 20px;
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+.course-box small {
+  color: #ed6b4f;
+  font-size: 15px;
+}
+.course-box img {
+  width: 100%;
+}
+.course-box-footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.course-box-footer ul li {
+  float: left;
+  margin-right: 3px;
+  color: #ffc014;
+}
+
+.course-box-footer ul li:last-child {
+  color: #ddd;
+}
+
+.rating {
+  margin: 0 20px;
+  color: #a2a2a2;
+  font-weight: bold;
+}
+
+.time {
+  float: right;
+  background-color: #ffe4e7;
+  padding: 4px 15px;
+  border-radius: 30px;
+  font-size: 15px;
+  color: #ff4a60;
+}
+
+.time svg {
+  margin-right: 5px;
+}
